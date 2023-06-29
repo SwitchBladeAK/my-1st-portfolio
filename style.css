@@ -891,11 +891,9 @@ span {
 
 @media(max-width:768px) {
 
-    html {
-    font-size: 62.5%;
+   body {
     overflow-x: hidden;
-
-}
+    }
     .liquid-shape {
         position: absolute;
         top: 90%;
